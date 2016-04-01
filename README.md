@@ -1,3 +1,7 @@
+This brnch is closed!
+================================================================================
+New branch: https://github.com/metrostroi-repo/metrostroi_beta/
+
 Metrostroi Subway Train Simulator
 ================================================================================
 A prototype of a subway simulator, based on Garry's Mod (Source Engine).
